@@ -45,7 +45,11 @@ An improved version with better login handling, card validation, invalid-choice 
 Make sure Python is installed, then run:
 
 ```bash
-python bank_manager_v2.py
+V1
+python "Bank_acc_manager v1.py"
+
+V2
+python "Bank_acc_manager v2.py"
 ```
 
 ## Project Goal
